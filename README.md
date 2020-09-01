@@ -1,6 +1,6 @@
 # Akamai Collection
 
-## Collect data needed by Akamai
+## Collect any data needed by Akamai.
 
 ### Getting Started
 

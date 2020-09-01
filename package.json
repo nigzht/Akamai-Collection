@@ -1,0 +1,10 @@
+{
+  "name": "akamai-collection",
+  "version": "1.0.0",
+  "description": "Collect data for akamai.",
+  "main": "build/src/index.js",
+  "repository": "https://github.com/nigzht/Akamai-Collection.git",
+  "author": "nigzht",
+  "license": "MIT",
+  "private": false
+}

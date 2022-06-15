@@ -19,7 +19,3 @@ If you think something should be added, I encourage you to make a pull request a
 ### Issues
 
 If there is something wrong, please open an issue and I will address it :)
-
-### Contact
-
-You can contact me on discord at: Takezo#0001
